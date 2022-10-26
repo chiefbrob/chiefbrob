@@ -23,7 +23,7 @@
 <a href="https://twitter.com/chiefbrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiefbrob" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chiefbrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiefbrob" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/chiefbrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chiefbrob" height="30" width="40" /></a>
-<a href="https://fb.com/sergiobrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergiobrob" height="30" width="40" /></a>
+<a href="https://fb.com/chiefbrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chiefbrob" height="30" width="40" /></a>
 <a href="https://instagram.com/chiefbrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiefbrob" height="30" width="40" /></a>
 <a href="https://medium.com/@chiefbrob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chiefbrob" height="30" width="40" /></a>
 </p>

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiefbrob" target="blank"><img src="https://img.shields.io/twitter/follow/chiefbrob?logo=twitter&style=for-the-badge" alt="chiefbrob" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://chiefbrob.info](https://chiefbrob.info)
 

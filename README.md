@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chief</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
+<h3 align="center">I'm looking for work. <a href="https://chiefbrob.info/resume">View my resume</a></h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiefbrob&label=Profile%20views&color=0e75b6&style=flat" alt="chiefbrob" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiefbrob" alt="chiefbrob" /></a> </p>

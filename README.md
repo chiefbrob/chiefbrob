@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Chief</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-<h3 align="center">I'm looking for work. <a href="https://chiefbrob.info/resume.php">My resume</a></h3>
+<h3 align="center">I'm looking for work. <a href="https://chiefbrob.info/resume.php">View my resume</a> or <a href="https://calendly.com/chiefbrob">Setup Meeting</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiefbrob&label=Profile%20views&color=0e75b6&style=flat" alt="chiefbrob" /> </p>
 

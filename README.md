@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Chief</h1>
+<h1 align="center">Hi 👋, I'm Brian Chief</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
 
-<h3 align="center">I'm looking for work. <a href="https://chiefbrob.info/resume">View my resume</a></h3>
+<h3 align="center">I'm looking for work. <a href="https://chiefbrob.info/resume.php">My resume</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiefbrob&label=Profile%20views&color=0e75b6&style=flat" alt="chiefbrob" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog.chiefbrob.info](https://blog.chiefbrob.info)
 
-- 💬 Ask me about **laravel, vue js, php**
+- 💬 Ask me about **java, laravel, vue js, php, flask**
 
 - 📫 How to reach me **brianobare@gmail.com**
 

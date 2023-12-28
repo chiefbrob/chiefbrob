@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://chiefbrob.info](https://chiefbrob.info)
 
-- 📝 I regularly write articles on [https://blog.chiefbrob.info](https://blog.chiefbrob.info)
-
 - 💬 Ask me about **laravel, vue js, php, typescript, SQL**
 
 - 📫 How to reach me **brianobare@gmail.com**

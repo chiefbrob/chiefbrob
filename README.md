@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://chiefbrob.info](https://chiefbrob.info)
 
-- 💬 Ask me about **laravel, vue js, php, typescript, SQL**
+- 💬 Ask me about **laravel, Vue, PHP, typescript, MySQL**
 
-- 📫 How to reach me **brianobare@gmail.com**
+- 📫 How to reach me **create a pr on any public repository**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

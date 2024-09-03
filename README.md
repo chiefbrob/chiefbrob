@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Chief</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
-<h4>Creator of <a href="https://play.google.com/store/apps/details?id=info.chiefbrob.eyeapp&hl=sw"> Chief's Eye</a></h4>
+<h4 align="center">Creator of <a href="https://play.google.com/store/apps/details?id=info.chiefbrob.eyeapp&hl=sw"> Chief's Eye</a></h4>
 
 <h3 align="center">Published 3 apps to <a href="https://play.google.com/store/apps/developer?id=Obare+C.+Brian">Google Play Store</a> | <a href="https://chiefbrob.info/resume.php">View my resume</a> | <a href="https://calendly.com/chiefbrob">Setup Meeting</a></h3>
 

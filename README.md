@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiefbrob" alt="chiefbrob" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chiefbrob" target="blank"><img src="https://img.shields.io/twitter/follow/chiefbrob?logo=twitter&style=for-the-badge" alt="chiefbrob" /></a> </p>
 
 - Recent Development: [Means](https://means.dabotap.com) - Discover seamless mobility. 
 
-- 👨‍💻 All of my projects are available at [https://chiefbrob.info](https://chiefbrob.info)
+- 👨‍💻 All of my projects are available at [https://chief.on.dabotap.com](https://chief.on.dabotap.com)
 
 - 💬 Ask me about **laravel, Vue, PHP, typescript, MySQL**
 

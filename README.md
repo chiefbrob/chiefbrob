@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **laravel, Vue, PHP, typescript, MySQL**
 
-- 📫 How to reach me **create a pr on any public repository**
+- 📫 How to reach me **setup meeting above or connect on Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

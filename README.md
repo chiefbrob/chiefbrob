@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Chief</h1>
 <h3 align="center">A passionate Software Engineer from Kenya</h3>
-<h4 align="center">Creator of <a href="https://play.google.com/store/apps/details?id=info.chiefbrob.eyeapp&hl=sw"> Chief's Eye</a> | <a href="https://chiefbrob.info">chiefbrob.info</a></h4>
+<h4 align="center">Creator of <a href="https://play.google.com/store/apps/details?id=info.chiefbrob.eyeapp&hl=sw"> Chief's Eye</a> | <a href="https://eye.on.chiefbrob.info">chiefbrob.info</a></h4>
 
 <h3 align="center">Published 4 apps to <a href="https://play.google.com/store/apps/developer?id=Dabotap.com&hl=en">Google Play Store</a> | <a href="https://calendly.com/chiefbrob">Setup Meeting</a></h3>
 
@@ -11,11 +11,11 @@
 
 - Recent Development: [Means](https://means.dabotap.com) - Discover seamless mobility. 
 
-- 👨‍💻 All of my projects are available at [https://chief.on.dabotap.com](https://chief.on.dabotap.com)
+- 👨‍💻 All of my projects are available at [https://chiefbrob.info](https://chiefbrob.info)
 
-- 💬 Ask me about **laravel, Vue, PHP, typescript, MySQL**
+- 💬 Ask me about **Laravel, Vue, PHP, typescript, MySQL, Android Dev, AWS**
 
-- 📫 How to reach me **setup meeting above or connect on Linkedin**
+- 📫 How to reach me **setup meeting above or let's connect on Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

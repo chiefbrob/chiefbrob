@@ -6,7 +6,7 @@ Building and scaling digital platforms into real-world businesses across mobilit
 </h4>
 
 <h4 align="center">
-🚀 Founder, <a href="https://dabotap.com">Dabotap</a> | 
+🚀 CTO at <a href="https://dabotap.com">Dabotap.com</a> | 
 🌍 <a href="https://chiefbrob.info">chiefbrob.info</a>
 </h4>
 

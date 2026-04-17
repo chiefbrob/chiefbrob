@@ -1,6 +1,6 @@
 # Brian Chief Obare (chiefbrob)
 
-### Platform Operator | Technology Executive
+### Platform Operator
 
 Building and scaling digital platforms into real-world businesses across mobility, logistics, and data systems.
 

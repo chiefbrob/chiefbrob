@@ -4,9 +4,9 @@
 
 Building and scaling digital platforms into real-world businesses across mobility, logistics, and data systems.
 
-🚀 CTO at Dabotap.com | 🌍 https://chiefbrob.info
+🚀 Founder & Lead Developer – [Dabotap.com](https://dabotap.com) | 🌍 [chiefbrob.info](https://chiefbrob.info)
 
-I operate at the intersection of **product, engineering, and execution**—turning validated systems into scalable, high-growth platforms.
+I build and ship software.
 
 ---
 
